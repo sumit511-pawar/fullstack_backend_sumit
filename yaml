@@ -1,0 +1,23 @@
+✅ **Now, your backend repo has clear instructions.**  
+
+---
+
+### **📝 Frontend `README.md`**
+Create a `README.md` file inside the `frontend/` folder:  
+```md
+# Fullstack Frontend (React + Cloudflare Pages)
+
+## 🚀 Overview
+This is the frontend for my full-stack app, built using **React.js** and hosted on **Cloudflare Pages**.
+
+## 🛠️ Technologies Used
+- React.js
+- Bootstrap for styling
+- Hosted on **Cloudflare Pages**
+
+## 🔧 How to Run Locally
+```sh
+git clone https://github.com/sumit511-pawar/fullstack_backend_sumit.git
+cd frontend
+npm install
+npm start
